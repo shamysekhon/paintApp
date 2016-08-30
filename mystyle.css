@@ -1,0 +1,32 @@
+body{
+background: url('160218-deux-two_by_Pierre_Cante.jpg');
+
+
+
+}
+
+
+#box{
+   background-color: orangered;
+   height:609px;
+   width:609px;
+   margin:auto;
+   margin-top:50px;
+
+
+}
+
+#box1{
+   background-color:oldlace; ;
+   height: 15px;
+   width: 15px;
+   margin-left: 4px;
+   margin-top: 4px;
+   /*border: 1px solid black;*/
+   display: inline-block;
+
+
+
+
+
+}
